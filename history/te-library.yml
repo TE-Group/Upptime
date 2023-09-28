@@ -1,7 +1,7 @@
 url: https://stage.teslib.com/te-library/ping
-status: up
-code: 200
-responseTime: 593
-lastUpdated: 2023-09-28T18:28:03.717Z
+status: down
+code: 502
+responseTime: 528
+lastUpdated: 2023-09-28T18:46:03.722Z
 startTime: 2023-09-27T07:04:11.924Z
 generator: Upptime <https://github.com/upptime/upptime>
