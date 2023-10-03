@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.premiumholidays.com.ico",
     "slug": "te-phl",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1335,
     "timeDay": 1475,
     "timeWeek": 1335,
@@ -42,12 +42,12 @@
     "url": "https://stage.teslib.com/te-library/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.teslib.com.ico",
     "slug": "te-library",
-    "status": "up",
-    "uptime": "80.94%",
-    "uptimeDay": "67.54%",
-    "uptimeWeek": "80.94%",
-    "uptimeMonth": "80.94%",
-    "uptimeYear": "80.94%",
+    "status": "down",
+    "uptime": "81.16%",
+    "uptimeDay": "68.28%",
+    "uptimeWeek": "81.16%",
+    "uptimeMonth": "81.16%",
+    "uptimeYear": "81.16%",
     "time": 528,
     "timeDay": 475,
     "timeWeek": 528,
@@ -57,7 +57,7 @@
       "2023-10-03": 364,
       "2023-10-02": 667,
       "2023-10-01": 630,
-      "2023-09-30": 124
+      "2023-09-30": 107
     }
   }
 ]
