@@ -43,13 +43,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.teslib.com.ico",
     "slug": "te-library",
     "status": "up",
-    "uptime": "85.07%",
-    "uptimeDay": "55.60%",
-    "uptimeWeek": "81.68%",
-    "uptimeMonth": "85.07%",
-    "uptimeYear": "85.07%",
+    "uptime": "85.21%",
+    "uptimeDay": "57.32%",
+    "uptimeWeek": "81.78%",
+    "uptimeMonth": "85.21%",
+    "uptimeYear": "85.21%",
     "time": 530,
-    "timeDay": 614,
+    "timeDay": 617,
     "timeWeek": 516,
     "timeMonth": 530,
     "timeYear": 530,
@@ -57,7 +57,7 @@
       "2023-10-05": 565,
       "2023-10-04": 635,
       "2023-10-03": 497,
-      "2023-10-02": 146
+      "2023-10-02": 136
     }
   }
 ]
