@@ -43,14 +43,14 @@
     "url": "https://stage.teslib.com/te-library/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.teslib.com.ico",
     "slug": "te-library",
-    "status": "up",
-    "uptime": "88.91%",
-    "uptimeDay": "49.63%",
-    "uptimeWeek": "81.62%",
-    "uptimeMonth": "88.91%",
-    "uptimeYear": "88.91%",
+    "status": "down",
+    "uptime": "89.07%",
+    "uptimeDay": "50.22%",
+    "uptimeWeek": "81.87%",
+    "uptimeMonth": "89.07%",
+    "uptimeYear": "89.07%",
     "time": 537,
-    "timeDay": 456,
+    "timeDay": 457,
     "timeWeek": 530,
     "timeMonth": 537,
     "timeYear": 537,
@@ -58,7 +58,7 @@
       "2023-10-08": 652,
       "2023-10-07": 771,
       "2023-10-06": 372,
-      "2023-10-05": 56
+      "2023-10-05": 31
     }
   }
 ]
