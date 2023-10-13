@@ -4,9 +4,9 @@
     "url": "https://www.texpert.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.texpert.com.ico",
     "slug": "te-texpert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2419,
     "timeMonth": 2304,
     "timeYear": 2304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   },
   {
     "name": "TE-PHL",
@@ -25,41 +27,17 @@
     "status": "up",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 1313,
     "timeDay": 1365,
-    "timeWeek": 1252,
+    "timeWeek": 1282,
     "timeMonth": 1313,
     "timeYear": 1313,
     "dailyMinutesDown": {
       "2023-10-06": 7,
       "2023-10-02": 7
-    }
-  },
-  {
-    "name": "TE-Library",
-    "url": "https://stage.teslib.com/te-library/ping",
-    "icon": "https://icons.duckduckgo.com/ip3/stage.teslib.com.ico",
-    "slug": "te-library",
-    "status": "up",
-    "uptime": "91.54%",
-    "uptimeDay": "70.75%",
-    "uptimeWeek": "80.80%",
-    "uptimeMonth": "91.54%",
-    "uptimeYear": "91.54%",
-    "time": 532,
-    "timeDay": 476,
-    "timeWeek": 485,
-    "timeMonth": 532,
-    "timeYear": 532,
-    "dailyMinutesDown": {
-      "2023-10-13": 127,
-      "2023-10-12": 317,
-      "2023-10-11": 594,
-      "2023-10-10": 802,
-      "2023-10-09": 89
     }
   }
 ]
