@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.texpert.com.ico",
     "slug": "te-texpert-com",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.21%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "97.29%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.32%",
     "time": 2336,
     "timeDay": 2559,
     "timeWeek": 2413,
@@ -39,5 +39,23 @@
       "2023-10-06": 7,
       "2023-10-02": 7
     }
+  },
+  {
+    "name": "TE-PromoSite",
+    "url": "https://go.texpert.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/go.texpert.com.ico",
+    "slug": "te-promo-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 877,
+    "timeDay": 877,
+    "timeWeek": 877,
+    "timeMonth": 877,
+    "timeYear": 877,
+    "dailyMinutesDown": {}
   }
 ]
