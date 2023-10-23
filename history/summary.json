@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.texpert.com.ico",
     "slug": "te-texpert-com",
     "status": "up",
-    "uptime": "97.66%",
+    "uptime": "97.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.66%",
-    "uptimeYear": "97.66%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
     "time": 2363,
     "timeDay": 2664,
     "timeWeek": 2478,
@@ -66,15 +66,15 @@
     "url": "https://stage.teslib.com/te-library/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.teslib.com.ico",
     "slug": "te-library",
-    "status": "up",
-    "uptime": "94.97%",
+    "status": "down",
+    "uptime": "95.00%",
     "uptimeDay": "80.13%",
     "uptimeWeek": "97.16%",
-    "uptimeMonth": "94.97%",
-    "uptimeYear": "94.97%",
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "95.00%",
     "time": 549,
-    "timeDay": 1054,
-    "timeWeek": 1054,
+    "timeDay": 1039,
+    "timeWeek": 1039,
     "timeMonth": 549,
     "timeYear": 549,
     "dailyMinutesDown": {
@@ -82,7 +82,7 @@
       "2023-10-13": 127,
       "2023-10-12": 317,
       "2023-10-11": 594,
-      "2023-10-10": 580
+      "2023-10-10": 572
     }
   }
 ]
