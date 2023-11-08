@@ -1,7 +1,7 @@
 url: https://teslib.com/te-library/ping
-status: up
-code: 200
-responseTime: 474
-lastUpdated: 2023-11-08T19:37:09.400Z
+status: down
+code: 502
+responseTime: 410
+lastUpdated: 2023-11-08T20:15:48.551Z
 startTime: 2023-10-25T09:19:03.640Z
 generator: Upptime <https://github.com/upptime/upptime>
