@@ -13,7 +13,7 @@
     "time": 2362,
     "timeDay": 2120,
     "timeWeek": 2378,
-    "timeMonth": 2339,
+    "timeMonth": 2342,
     "timeYear": 2362,
     "dailyMinutesDown": {
       "2023-11-24": 34,
@@ -36,7 +36,7 @@
     "time": 1345,
     "timeDay": 1120,
     "timeWeek": 1305,
-    "timeMonth": 1331,
+    "timeMonth": 1329,
     "timeYear": 1345,
     "dailyMinutesDown": {
       "2023-11-17": 9,
@@ -59,7 +59,7 @@
     "time": 1479,
     "timeDay": 961,
     "timeWeek": 1243,
-    "timeMonth": 1575,
+    "timeMonth": 1580,
     "timeYear": 1479,
     "dailyMinutesDown": {
       "2023-11-29": 10,
@@ -84,14 +84,14 @@
     "slug": "te-library-stage",
     "status": "up",
     "uptime": "97.08%",
-    "uptimeDay": "62.11%",
+    "uptimeDay": "63.23%",
     "uptimeWeek": "84.73%",
     "uptimeMonth": "96.49%",
     "uptimeYear": "97.08%",
     "time": 541,
     "timeDay": 618,
-    "timeWeek": 546,
-    "timeMonth": 528,
+    "timeWeek": 547,
+    "timeMonth": 530,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2023-11-30": 528,
@@ -114,7 +114,7 @@
     "time": 505,
     "timeDay": 377,
     "timeWeek": 425,
-    "timeMonth": 508,
+    "timeMonth": 474,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2023-11-30": 130,
