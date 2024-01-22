@@ -8,7 +8,7 @@ sites:
   - name: TE-PHL
     url: https://www.premiumholidays.com/
   - name: TE-PromoSite
-    url: https://go.texpert.com/
+    url: https://go.texpert.com/zh
   - name: TE-Library(stage)
     url: https://stage.teslib.com/te-library/ping
   - name: TE-Library(prod)
