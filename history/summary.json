@@ -177,5 +177,23 @@
       "2023-10-12": 317,
       "2023-10-11": 55
     }
+  },
+  {
+    "name": "TE-Normalizer-Library",
+    "url": "https://teslib.com/normalizer-library/help",
+    "icon": "https://icons.duckduckgo.com/ip3/teslib.com.ico",
+    "slug": "te-normalizer-library",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
+    "dailyMinutesDown": {}
   }
 ]
