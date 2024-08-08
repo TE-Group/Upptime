@@ -194,17 +194,19 @@
     "url": "https://teslib.com/normalizer-library/help",
     "icon": "https://icons.duckduckgo.com/ip3/teslib.com.ico",
     "slug": "te-normalizer-library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 248,
-    "timeWeek": 240,
-    "timeMonth": 265,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "time": 515,
+    "timeDay": 6279,
+    "timeWeek": 1749,
+    "timeMonth": 641,
+    "timeYear": 515,
+    "dailyMinutesDown": {
+      "2024-08-08": 0
+    }
   }
 ]
