@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.89%",
-    "time": 3097,
-    "timeDay": 23443,
-    "timeWeek": 5679,
-    "timeMonth": 3470,
-    "timeYear": 3144,
+    "time": 3094,
+    "timeDay": 2162,
+    "timeWeek": 5604,
+    "timeMonth": 3356,
+    "timeYear": 3142,
     "dailyMinutesDown": {
       "2024-09-22": 7,
       "2024-08-15": 7,
@@ -46,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 1540,
-    "timeDay": 1817,
-    "timeWeek": 1617,
-    "timeMonth": 1524,
+    "timeDay": 1409,
+    "timeWeek": 1566,
+    "timeMonth": 1531,
     "timeYear": 1553,
     "dailyMinutesDown": {
       "2024-09-19": 9,
@@ -78,8 +78,7 @@
       "2024-01-10": 7,
       "2023-12-26": 7,
       "2023-12-25": 7,
-      "2023-11-17": 9,
-      "2023-10-22": 7
+      "2023-11-17": 9
     }
   },
   {
@@ -93,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 1298,
-    "timeDay": 1273,
-    "timeWeek": 1102,
-    "timeMonth": 1031,
+    "time": 1297,
+    "timeDay": 972,
+    "timeWeek": 1084,
+    "timeMonth": 1033,
     "timeYear": 1298,
     "dailyMinutesDown": {
       "2024-08-08": 7,
@@ -158,8 +157,7 @@
       "2023-11-06": 11,
       "2023-11-02": 11,
       "2023-10-29": 7,
-      "2023-10-28": 9,
-      "2023-10-22": 7
+      "2023-10-28": 9
     }
   },
   {
@@ -174,9 +172,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
     "time": 574,
-    "timeDay": 564,
-    "timeWeek": 528,
-    "timeMonth": 498,
+    "timeDay": 483,
+    "timeWeek": 523,
+    "timeMonth": 501,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2024-06-11": 9,
@@ -202,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 373,
-    "timeDay": 241,
-    "timeWeek": 214,
+    "time": 372,
+    "timeDay": 184,
+    "timeWeek": 210,
     "timeMonth": 241,
-    "timeYear": 373,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2024-08-17": 32,
       "2024-08-08": 33
