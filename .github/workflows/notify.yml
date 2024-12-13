@@ -1,7 +1,7 @@
 name: Notify
 on:
   workflow_run:
-    workflows: ["Check endpoint status"]
+    workflows: ["Update summary", "Check endpoint status"]
     types:
       - completed
 
@@ -9,14 +9,8 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Send Feishu Notification
-        run: |
-          curl -X POST -H 'Content-Type: application/json' \
-          -d '{
-                "msg_type": "text",
-                "content": {
-                  "text": "🚨 Upptime 通知：\n站點 {{ SITE_NAME }} 出現問題！\n狀態：{{ STATUS }}\n時間：{{ TIME }}"
-                }
-              }' ${NOTIFICATION_CUSTOM_WEBHOOK_URL}
-        env:
-          FEISHU_WEBHOOK_URL: ${{ secrets.NOTIFICATION_CUSTOM_WEBHOOK_URL }}
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Send Notification
+        run: echo "Sending notification for {{ status }}"
