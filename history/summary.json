@@ -201,5 +201,25 @@
       "2024-08-17": 32,
       "2024-08-08": 33
     }
+  },
+  {
+    "name": "TE-Texpert-Staging",
+    "url": "https://staging.texpert.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/staging.texpert.com.ico",
+    "slug": "te-texpert-staging",
+    "status": "down",
+    "uptime": "4.11%",
+    "uptimeDay": "4.11%",
+    "uptimeWeek": "4.11%",
+    "uptimeMonth": "4.11%",
+    "uptimeYear": "4.11%",
+    "time": 802,
+    "timeDay": 802,
+    "timeWeek": 802,
+    "timeMonth": 802,
+    "timeYear": 802,
+    "dailyMinutesDown": {
+      "2024-12-13": 0
+    }
   }
 ]
