@@ -207,19 +207,19 @@
     "url": "https://stage.teslib.com/te-library/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.teslib.com.ico",
     "slug": "te-texpert-staging",
-    "status": "down",
-    "uptime": "40.14%",
-    "uptimeDay": "40.14%",
-    "uptimeWeek": "40.14%",
-    "uptimeMonth": "40.14%",
-    "uptimeYear": "40.14%",
+    "status": "up",
+    "uptime": "37.40%",
+    "uptimeDay": "37.40%",
+    "uptimeWeek": "37.40%",
+    "uptimeMonth": "37.40%",
+    "uptimeYear": "37.40%",
     "time": 557,
     "timeDay": 557,
     "timeWeek": 557,
     "timeMonth": 557,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2024-12-13": 90
+      "2024-12-13": 102
     }
   }
 ]
