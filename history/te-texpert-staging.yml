@@ -1,7 +1,7 @@
-url: https://staging.texpert.com/
-status: down
-code: 401
-responseTime: 802
-lastUpdated: 2024-12-13T07:26:54.419Z
+url: https://stage.teslib.com/te-library/ping
+status: up
+code: 200
+responseTime: 582
+lastUpdated: 2024-12-13T08:04:11.926Z
 startTime: 2024-12-13T07:26:53.144Z
 generator: Upptime <https://github.com/upptime/upptime>
