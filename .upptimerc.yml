@@ -13,6 +13,8 @@ sites:
     url: https://teslib.com/te-library/ping
   - name: TE-Normalizer-Library
     url: https://teslib.com/normalizer-library/help
+  - name: TE-Texpert-Staging
+    url: https://staging.texpert.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
