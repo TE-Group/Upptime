@@ -204,22 +204,22 @@
   },
   {
     "name": "TE-Texpert-Staging",
-    "url": "https://staging.texpert.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/staging.texpert.com.ico",
+    "url": "https://stage.teslib.com/te-library/ping",
+    "icon": "https://icons.duckduckgo.com/ip3/stage.teslib.com.ico",
     "slug": "te-texpert-staging",
-    "status": "down",
-    "uptime": "4.11%",
-    "uptimeDay": "4.11%",
-    "uptimeWeek": "4.11%",
-    "uptimeMonth": "4.11%",
-    "uptimeYear": "4.11%",
-    "time": 802,
-    "timeDay": 802,
-    "timeWeek": 802,
-    "timeMonth": 802,
-    "timeYear": 802,
+    "status": "up",
+    "uptime": "0.63%",
+    "uptimeDay": "0.63%",
+    "uptimeWeek": "0.63%",
+    "uptimeMonth": "0.63%",
+    "uptimeYear": "0.63%",
+    "time": 692,
+    "timeDay": 692,
+    "timeWeek": 692,
+    "timeMonth": 692,
+    "timeYear": 692,
     "dailyMinutesDown": {
-      "2024-12-13": 0
+      "2024-12-13": 37
     }
   }
 ]
