@@ -1,4 +1,4 @@
-name: Notify
+name: Notify CI
 on:
   issues:
     types:
@@ -17,6 +17,6 @@ jobs:
       with:
         webhook-url: ${{ secrets.FEISHU_WEBHOOK_URL }}
         msg-type: card
-        title: test
+        title: ${{ github.event.issue.title }}
         content: |
-          test notify
+          ${{ github.event.issue.body }}
