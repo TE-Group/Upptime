@@ -1,16 +1,19 @@
 name: Notify
 on:
-  workflow_run:
-    workflows: ["Update summary", "Check endpoint status"]
+  issues:
     types:
-      - completed
-
+      - opened
 jobs:
   notify:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
 
-      - name: Send Notification
-        run: echo "Sending notification for {{ status }}"
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: feishu-bot-yc
+      uses: Comori/feishu@v0.0.3
+      with:
+        webhook-url: ${{ secrets.FEISHU_WEBHOOK_URL }}
+        msg-type: card
+        title: ${{ github.event.pull_request.title }}
