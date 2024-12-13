@@ -1,7 +1,7 @@
 name: Notify
 on:
   workflow_run:
-    workflows: ["Check status", "Check endpoint status"]
+    workflows: ["Check endpoint status"]
     types:
       - completed
 
