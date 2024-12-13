@@ -1,0 +1,22 @@
+name: Notify
+on:
+  workflow_run:
+    workflows: ["uptime"]
+    types:
+      - completed
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Feishu Notification
+        run: |
+          curl -X POST -H 'Content-Type: application/json' \
+          -d '{
+                "msg_type": "text",
+                "content": {
+                  "text": "🚨 Upptime 通知：\n站點 {{ SITE_NAME }} 出現問題！\n狀態：{{ STATUS }}\n時間：{{ TIME }}"
+                }
+              }' ${FEISHU_WEBHOOK_URL}
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
