@@ -13,13 +13,21 @@ jobs:
 
     steps:
     - name: feishu-bot-yc
+      if: github.event.issue.types == "opened"
       uses: Comori/feishu@v0.0.3
       with:
         webhook-url: ${{ secrets.FEISHU_WEBHOOK_URL }}
         msg-type: card
         title: ${{ github.event.issue.title }}
         content: |
-          if[[github.event.issue.types == "opened"]]; then
             ${{ github.event.issue.body }}
-          else
-            ${{ github.event.comment.body }}
+
+    - name: feishu-bot-yc
+      if: github.event.issue.types == "closed"
+      uses: Comori/feishu@v0.0.3
+      with:
+        webhook-url: ${{ secrets.FEISHU_WEBHOOK_URL }}
+        msg-type: card
+        title: ${{ github.event.issue.title }}
+        content: |
+            ${{ github.event.comment.body }}        
