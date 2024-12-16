@@ -1,17 +1,14 @@
 name: Notify CI
 on:
-  workflow_run:
-    workflows: ["Check endpoint status"] # 替換為 Upptime 監控工作流名稱
+  issues:
     types:
-      - completed
+      - opened
+      - closed
 jobs:
   notify:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
     - name: feishu-bot-yc
       uses: Comori/feishu@v0.0.3
       with:
@@ -19,4 +16,7 @@ jobs:
         msg-type: card
         title: ${{ github.event.issue.title }}
         content: |
-          ${{ github.event.issue.body }}
+          "Issue Number: ${{ github.event.issue.number }}"
+          "Issue Title: ${{ github.event.issue.title }}"
+          "Issue Body: ${{ github.event.issue.body }}"
+          "Triggered by: ${{ github.actor }}"
