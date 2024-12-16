@@ -30,4 +30,4 @@ jobs:
         msg-type: card
         title: ${{ github.event.issue.title }}
         content: |
-            ${{ github.event.comment.body }}        
+            ${{ github.event.issue.body }}        
