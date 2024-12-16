@@ -1,9 +1,9 @@
 name: Notify CI
 on:
-  issues:
+  workflow_run:
+    workflows: ["Check endpoint status"] # 替換為 Upptime 監控工作流名稱
     types:
-      - opened
-      - closed
+      - completed
 jobs:
   notify:
     runs-on: ubuntu-latest
