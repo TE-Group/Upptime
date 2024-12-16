@@ -31,16 +31,3 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
-      - name: feishu-bot-yc
-        uses: Comori/feishu@v0.0.3
-        with:
-          webhook-url: ${{ secrets.FEISHU_WEBHOOK_URL }}
-          msg-type: card
-          title: test
-          content: |
-            error
-      - name: Send Webhook Notification
-        run: |
-          curl -X POST -H 'Content-Type: application/json' \
-          -d '{"msg_type": "text", "content": {"text": "🚨 {{ SITE_NAME }} is {{ STATUS }} at {{ TIME }}"}}' \
-          ${{ secrets.FEISHU_WEBHOOK_URL }}
