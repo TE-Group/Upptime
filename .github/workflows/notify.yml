@@ -19,7 +19,7 @@ jobs:
         msg-type: card
         title: ${{ github.event.issue.title }}
         content: |
-          "Issue Number: ${{ github.event.issue.number }}"
-          "Issue Title: ${{ github.event.issue.title }}"
-          "Issue Body: ${{ github.event.issue.body }}"
-          "Triggered by: ${{ github.actor }}"
+          if[[github.event.issue.types == "opened"]]; then
+            ${{ github.event.issue.body }}
+          else
+            ${{ github.event.comment.body }}
