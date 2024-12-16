@@ -39,3 +39,8 @@ jobs:
           title: test
           content: |
             error
+      - name: Send Webhook Notification
+        run: |
+          curl -X POST -H 'Content-Type: application/json' \
+          -d '{"msg_type": "text", "content": {"text": "🚨 {{ SITE_NAME }} is {{ STATUS }} at {{ TIME }}"}}' \
+          ${{ secrets.FEISHU_WEBHOOK_URL }}
