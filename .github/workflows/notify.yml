@@ -4,6 +4,9 @@ on:
     types:
       - opened
       - closed
+  repository_dispatch:
+    types: [notify]
+  workflow_dispatch:
 jobs:
   notify:
     runs-on: ubuntu-latest
