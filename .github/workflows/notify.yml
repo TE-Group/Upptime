@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - name: feishu-bot-yc
-      if: github.event.action == "opened"
+      if: github.event.action == 'opened'
       uses: Comori/feishu@v0.0.3
       with:
         webhook-url: ${{ secrets.FEISHU_WEBHOOK_URL }}
@@ -23,7 +23,7 @@ jobs:
             ${{ github.event.issue.body }}
 
     - name: feishu-bot-yc
-      if: github.event.action == "closed"
+      if: github.event.action == 'closed'
       uses: Comori/feishu@v0.0.3
       with:
         webhook-url: ${{ secrets.FEISHU_WEBHOOK_URL }}
