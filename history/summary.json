@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.53%",
-    "time": 2827,
-    "timeDay": 1433,
-    "timeWeek": 1309,
-    "timeMonth": 1358,
-    "timeYear": 2965,
+    "time": 2825,
+    "timeDay": 1522,
+    "timeWeek": 1358,
+    "timeMonth": 1364,
+    "timeYear": 2964,
     "dailyMinutesDown": {
       "2025-01-16": 16,
       "2024-12-10": 34,
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
-    "time": 1565,
-    "timeDay": 1839,
-    "timeWeek": 1750,
-    "timeMonth": 1733,
-    "timeYear": 1617,
+    "time": 1566,
+    "timeDay": 2132,
+    "timeWeek": 1823,
+    "timeMonth": 1739,
+    "timeYear": 1619,
     "dailyMinutesDown": {
       "2024-11-12": 38,
       "2024-09-19": 9,
@@ -79,8 +79,7 @@
       "2024-02-29": 129,
       "2024-02-28": 20,
       "2024-02-26": 7,
-      "2024-02-18": 7,
-      "2024-01-23": 7
+      "2024-02-18": 7
     }
   },
   {
@@ -95,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 1253,
-    "timeDay": 1211,
-    "timeWeek": 1089,
-    "timeMonth": 1064,
+    "timeDay": 1238,
+    "timeWeek": 1134,
+    "timeMonth": 1075,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2024-11-12": 35,
@@ -133,8 +132,7 @@
       "2024-02-05": 14,
       "2024-02-04": 9,
       "2024-01-29": 11,
-      "2024-01-25": 9,
-      "2024-01-23": 11
+      "2024-01-25": 9
     }
   },
   {
@@ -149,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 559,
-    "timeDay": 500,
-    "timeWeek": 474,
-    "timeMonth": 495,
+    "timeDay": 547,
+    "timeWeek": 496,
+    "timeMonth": 496,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2024-11-12": 32,
@@ -176,8 +174,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 303,
-    "timeDay": 213,
-    "timeWeek": 217,
+    "timeDay": 249,
+    "timeWeek": 227,
     "timeMonth": 213,
     "timeYear": 303,
     "dailyMinutesDown": {
@@ -198,9 +196,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 503,
-    "timeDay": 434,
-    "timeWeek": 482,
-    "timeMonth": 494,
+    "timeDay": 535,
+    "timeWeek": 495,
+    "timeMonth": 495,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2024-12-16": 59,
@@ -213,16 +211,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/merchant-api.texpert.com.ico",
     "slug": "merchant-backend-api",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1495,
-    "timeDay": 884,
-    "timeWeek": 877,
-    "timeMonth": 1495,
-    "timeYear": 1495,
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1479,
+    "timeDay": 989,
+    "timeWeek": 909,
+    "timeMonth": 1479,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2025-01-12": 31,
       "2024-12-27": 31
