@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.45%",
-    "time": 2697,
-    "timeDay": 1465,
-    "timeWeek": 1631,
-    "timeMonth": 1825,
-    "timeYear": 2471,
+    "time": 2695,
+    "timeDay": 1372,
+    "timeWeek": 1605,
+    "timeMonth": 1809,
+    "timeYear": 2467,
     "dailyMinutesDown": {
       "2025-04-07": 31,
       "2025-04-03": 375,
@@ -35,8 +35,7 @@
       "2024-07-07": 7,
       "2024-05-18": 10,
       "2024-05-09": 8,
-      "2024-04-28": 26,
-      "2024-04-27": 337
+      "2024-04-28": 26
     }
   },
   {
@@ -50,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.80%",
-    "time": 1684,
-    "timeDay": 1162,
-    "timeWeek": 1672,
-    "timeMonth": 2540,
-    "timeYear": 1757,
+    "time": 1685,
+    "timeDay": 1834,
+    "timeWeek": 1685,
+    "timeMonth": 2530,
+    "timeYear": 1758,
     "dailyMinutesDown": {
       "2025-04-03": 356,
       "2025-03-31": 60,
@@ -71,8 +70,7 @@
       "2024-06-26": 10,
       "2024-05-25": 7,
       "2024-05-09": 8,
-      "2024-04-28": 51,
-      "2024-04-27": 336
+      "2024-04-28": 51
     }
   },
   {
@@ -87,10 +85,10 @@
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.81%",
     "time": 1225,
-    "timeDay": 795,
-    "timeWeek": 3136,
-    "timeMonth": 2047,
-    "timeYear": 1215,
+    "timeDay": 1133,
+    "timeWeek": 3146,
+    "timeMonth": 2043,
+    "timeYear": 1217,
     "dailyMinutesDown": {
       "2025-04-03": 356,
       "2025-01-24": 20,
@@ -104,8 +102,7 @@
       "2024-05-18": 10,
       "2024-05-17": 121,
       "2024-05-09": 8,
-      "2024-04-28": 51,
-      "2024-04-27": 336
+      "2024-04-28": 51
     }
   },
   {
@@ -120,8 +117,8 @@
     "uptimeMonth": "97.79%",
     "uptimeYear": "99.45%",
     "time": 566,
-    "timeDay": 483,
-    "timeWeek": 2672,
+    "timeDay": 506,
+    "timeWeek": 2666,
     "timeMonth": 1071,
     "timeYear": 585,
     "dailyMinutesDown": {
@@ -134,8 +131,7 @@
       "2024-05-19": 17,
       "2024-05-09": 8,
       "2024-04-29": 81,
-      "2024-04-28": 1440,
-      "2024-04-27": 335
+      "2024-04-28": 1440
     }
   },
   {
@@ -150,9 +146,9 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.89%",
     "time": 404,
-    "timeDay": 177,
-    "timeWeek": 2374,
-    "timeMonth": 1278,
+    "timeDay": 207,
+    "timeWeek": 2369,
+    "timeMonth": 1277,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2025-04-24": 21,
@@ -169,15 +165,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.teslib.com.ico",
     "slug": "te-texpert-staging",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 529,
-    "timeDay": 403,
-    "timeWeek": 534,
-    "timeMonth": 587,
+    "timeDay": 504,
+    "timeWeek": 526,
+    "timeMonth": 586,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2025-04-03": 434,
@@ -192,16 +188,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/merchant-api.texpert.com.ico",
     "slug": "merchant-backend-api",
     "status": "up",
-    "uptime": "84.17%",
+    "uptime": "84.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "49.03%",
+    "uptimeWeek": "63.32%",
     "uptimeMonth": "37.26%",
-    "uptimeYear": "84.17%",
-    "time": 1118,
-    "timeDay": 738,
-    "timeWeek": 926,
-    "timeMonth": 1082,
-    "timeYear": 1118,
+    "uptimeYear": "84.30%",
+    "time": 1117,
+    "timeDay": 916,
+    "timeWeek": 944,
+    "timeMonth": 1077,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2025-04-22": 819,
       "2025-04-21": 1440,
