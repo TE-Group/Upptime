@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
-    "uptimeYear": "99.45%",
-    "time": 2695,
-    "timeDay": 1372,
-    "timeWeek": 1605,
-    "timeMonth": 1809,
-    "timeYear": 2467,
+    "uptimeYear": "99.52%",
+    "time": 2693,
+    "timeDay": 1311,
+    "timeWeek": 1588,
+    "timeMonth": 1774,
+    "timeYear": 2443,
     "dailyMinutesDown": {
       "2025-04-07": 31,
       "2025-04-03": 375,
@@ -34,8 +34,7 @@
       "2024-07-23": 9,
       "2024-07-07": 7,
       "2024-05-18": 10,
-      "2024-05-09": 8,
-      "2024-04-28": 26
+      "2024-05-09": 8
     }
   },
   {
@@ -48,12 +47,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.86%",
     "time": 1685,
-    "timeDay": 1834,
-    "timeWeek": 1685,
-    "timeMonth": 2530,
-    "timeYear": 1758,
+    "timeDay": 1724,
+    "timeWeek": 1655,
+    "timeMonth": 2526,
+    "timeYear": 1735,
     "dailyMinutesDown": {
       "2025-04-03": 356,
       "2025-03-31": 60,
@@ -69,8 +68,7 @@
       "2024-06-27": 12,
       "2024-06-26": 10,
       "2024-05-25": 7,
-      "2024-05-09": 8,
-      "2024-04-28": 51
+      "2024-05-09": 8
     }
   },
   {
@@ -83,12 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.88%",
     "time": 1225,
-    "timeDay": 1133,
-    "timeWeek": 3146,
-    "timeMonth": 2043,
-    "timeYear": 1217,
+    "timeDay": 936,
+    "timeWeek": 3106,
+    "timeMonth": 2039,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2025-04-03": 356,
       "2025-01-24": 20,
@@ -101,8 +99,7 @@
       "2024-06-21": 7,
       "2024-05-18": 10,
       "2024-05-17": 121,
-      "2024-05-09": 8,
-      "2024-04-28": 51
+      "2024-05-09": 8
     }
   },
   {
@@ -111,16 +108,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/teslib.com.ico",
     "slug": "te-library",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "97.79%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.51%",
     "time": 566,
-    "timeDay": 506,
-    "timeWeek": 2666,
-    "timeMonth": 1071,
-    "timeYear": 585,
+    "timeDay": 490,
+    "timeWeek": 2661,
+    "timeMonth": 1070,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2025-04-24": 22,
       "2025-04-04": 191,
@@ -130,8 +127,7 @@
       "2024-06-11": 9,
       "2024-05-19": 17,
       "2024-05-09": 8,
-      "2024-04-29": 81,
-      "2024-04-28": 1440
+      "2024-04-29": 81
     }
   },
   {
@@ -145,11 +141,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.89%",
-    "time": 404,
-    "timeDay": 207,
-    "timeWeek": 2369,
+    "time": 403,
+    "timeDay": 217,
+    "timeWeek": 2366,
     "timeMonth": 1277,
-    "timeYear": 404,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2025-04-24": 21,
       "2025-04-03": 365,
@@ -171,8 +167,8 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.70%",
     "time": 529,
-    "timeDay": 504,
-    "timeWeek": 526,
+    "timeDay": 509,
+    "timeWeek": 516,
     "timeMonth": 586,
     "timeYear": 529,
     "dailyMinutesDown": {
@@ -188,16 +184,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/merchant-api.texpert.com.ico",
     "slug": "merchant-backend-api",
     "status": "up",
-    "uptime": "84.30%",
+    "uptime": "84.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "63.32%",
+    "uptimeWeek": "77.60%",
     "uptimeMonth": "37.26%",
-    "uptimeYear": "84.30%",
-    "time": 1117,
-    "timeDay": 916,
-    "timeWeek": 944,
+    "uptimeYear": "84.43%",
+    "time": 1115,
+    "timeDay": 899,
+    "timeWeek": 960,
     "timeMonth": 1077,
-    "timeYear": 1117,
+    "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-04-22": 819,
       "2025-04-21": 1440,
