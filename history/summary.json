@@ -213,19 +213,19 @@
     "url": "https://backoffice.texpert.com",
     "icon": "https://icons.duckduckgo.com/ip3/backoffice.texpert.com.ico",
     "slug": "hotel-backoffice-admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 826,
-    "timeDay": 779,
-    "timeWeek": 737,
-    "timeMonth": 934,
-    "timeYear": 826,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 825,
+    "timeDay": 773,
+    "timeWeek": 740,
+    "timeMonth": 930,
+    "timeYear": 825,
     "dailyMinutesDown": {
-      "2025-08-16": 0
+      "2025-08-16": 12
     }
   },
   {
