@@ -1,7 +1,7 @@
 url: https://merchant-api.texpert.com
-status: down
-code: 522
-responseTime: 19417
-lastUpdated: 2025-12-07T06:08:31.661Z
+status: up
+code: 200
+responseTime: 961
+lastUpdated: 2025-12-07T06:22:17.937Z
 startTime: 2024-12-26T03:39:19.186Z
 generator: Upptime <https://github.com/upptime/upptime>
