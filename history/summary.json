@@ -31,8 +31,7 @@
       "2025-05-24": 70,
       "2025-04-07": 31,
       "2025-04-03": 375,
-      "2025-03-20": 35,
-      "2025-02-11": 15
+      "2025-03-20": 35
     }
   },
   {
@@ -175,7 +174,7 @@
     "slug": "merchant-backend-api",
     "status": "up",
     "uptime": "95.04%",
-    "uptimeDay": "66.16%",
+    "uptimeDay": "69.11%",
     "uptimeWeek": "85.81%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "94.42%",
@@ -243,9 +242,9 @@
     "slug": "v2-te-texpert-com",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.87%",
     "time": 3386,
     "timeDay": 2684,
@@ -253,7 +252,6 @@
     "timeMonth": 3230,
     "timeYear": 3386,
     "dailyMinutesDown": {
-      "2026-02-10": 10,
       "2026-02-08": 40,
       "2025-12-18": 31,
       "2025-12-11": 108,
