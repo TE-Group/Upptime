@@ -42,18 +42,20 @@
     "url": "https://release.texpert.com/",
     "icon": "https://icons.duckduckgo.com/ip3/release.texpert.com.ico",
     "slug": "te-texpert-com-release",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 11044,
-    "timeDay": 11044,
-    "timeWeek": 11044,
-    "timeMonth": 11044,
-    "timeYear": 11044,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
+    "time": 5646,
+    "timeDay": 5646,
+    "timeWeek": 5646,
+    "timeMonth": 5646,
+    "timeYear": 5646,
+    "dailyMinutesDown": {
+      "2026-06-05": 0
+    }
   },
   {
     "name": "TE-PHL",
