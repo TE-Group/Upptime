@@ -5,22 +5,10 @@ repo: Upptime # The name of this repository
 sites:
   - name: TE-Texpert.com
     url: https://www.texpert.com/
+  - name: TE-Texpert.com - Release
+    url: https://release.texpert.com/
   - name: TE-PHL
     url: https://www.premiumholidays.com/
-  - name: TE-PromoSite
-    url: https://go.texpert.com/zh
-  - name: TE-Library
-    url: https://teslib.com/te-library/ping
-  - name: TE-Normalizer-Library
-    url: https://teslib.com/normalizer-library/help
-  - name: TE-Library-Staging
-    url: https://stage.teslib.com/te-library/ping
-  - name: Merchant-Backend-API
-    url: https://merchant-api.texpert.com
-  - name: Hotel-Backoffice-Admin
-    url: https://backoffice.texpert.com
-  - name: V2 TE-Texpert.com
-    url: https://travel.texpert.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
