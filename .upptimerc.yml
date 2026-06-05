@@ -5,6 +5,8 @@ repo: Upptime # The name of this repository
 sites:
   - name: TE-Texpert.com
     url: https://www.texpert.com/
+  - name: TE-Texpert.com - Release
+    url: https://release.texpert.com/
   - name: TE-PHL
     url: https://www.premiumholidays.com/
 
