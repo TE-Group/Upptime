@@ -4,17 +4,17 @@
     "url": "https://www.texpert.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.texpert.com.ico",
     "slug": "te-texpert-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.59%",
-    "time": 2422,
-    "timeDay": 2274,
-    "timeWeek": 9597,
-    "timeMonth": 4168,
-    "timeYear": 2666,
+    "time": 2420,
+    "timeDay": 1268,
+    "timeWeek": 8748,
+    "timeMonth": 4057,
+    "timeYear": 2660,
     "dailyMinutesDown": {
       "2025-06-18": 39,
       "2025-06-20": 67,
@@ -34,7 +34,8 @@
       "2026-04-27": 48,
       "2026-05-02": 20,
       "2026-05-03": 65,
-      "2026-06-05": 157
+      "2026-06-05": 157,
+      "2026-06-08": 0
     }
   },
   {
@@ -42,19 +43,20 @@
     "url": "https://release.texpert.com/",
     "icon": "https://icons.duckduckgo.com/ip3/release.texpert.com.ico",
     "slug": "te-texpert-com-release",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 2905,
-    "timeDay": 1996,
-    "timeWeek": 2905,
-    "timeMonth": 2905,
-    "timeYear": 2905,
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 2527,
+    "timeDay": 1130,
+    "timeWeek": 2527,
+    "timeMonth": 2527,
+    "timeYear": 2527,
     "dailyMinutesDown": {
-      "2026-06-05": 3
+      "2026-06-05": 3,
+      "2026-06-08": 0
     }
   },
   {
