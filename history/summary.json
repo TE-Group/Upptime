@@ -4,17 +4,17 @@
     "url": "https://www.texpert.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.texpert.com.ico",
     "slug": "te-texpert-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.58%",
-    "time": 2408,
-    "timeDay": 783,
-    "timeWeek": 960,
-    "timeMonth": 3573,
-    "timeYear": 2614,
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.57%",
+    "time": 2407,
+    "timeDay": 927,
+    "timeWeek": 1010,
+    "timeMonth": 3521,
+    "timeYear": 2617,
     "dailyMinutesDown": {
       "2025-06-20": 67,
       "2025-10-27": 80,
@@ -35,7 +35,7 @@
       "2026-05-03": 65,
       "2026-06-05": 157,
       "2026-06-08": 72,
-      "2026-06-19": 25
+      "2026-06-19": 58
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeDay": 685,
     "timeWeek": 1352,
     "timeMonth": 2016,
-    "timeYear": 2443,
+    "timeYear": 2445,
     "dailyMinutesDown": {
       "2025-06-20": 66,
       "2025-07-14": 333,
