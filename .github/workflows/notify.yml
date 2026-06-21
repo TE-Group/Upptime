@@ -10,24 +10,68 @@ on:
 jobs:
   notify:
     runs-on: ubuntu-latest
+    env:
+      FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+      ISSUE_TITLE: ${{ github.event.issue.title }}
+      ISSUE_BODY: ${{ github.event.issue.body }}
+      ACTION: ${{ github.event.action }}
 
     steps:
-    - name: feishu-bot-yc
-      if: github.event.action == 'opened'
-      uses: Comori/feishu@v0.0.3
-      with:
-        webhook-url: ${{ secrets.FEISHU_WEBHOOK_URL }}
-        msg-type: card
-        title: ${{ github.event.issue.title }}
-        content: |
-            ${{ github.event.issue.body }}
+      - name: Send notification to Feishu
+        if: github.event.action == 'opened' || github.event.action == 'closed'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            // Feishu users to @mention on every notification
+            const AT_USERS = [
+              { id: 'ou_6129eefecd30faa2c56c36670b0b2516', name: 'Henry' }
+            ];
 
-    - name: feishu-bot-yc
-      if: github.event.action == 'closed'
-      uses: Comori/feishu@v0.0.3
-      with:
-        webhook-url: ${{ secrets.FEISHU_WEBHOOK_URL }}
-        msg-type: card
-        title: ${{ github.event.issue.title }}
-        content: |
-            Server is started.        
+            const createAtElement = (userId) => ({ tag: "at", user_id: userId });
+
+            const action = process.env.ACTION;
+            const issueTitle = process.env.ISSUE_TITLE || '';
+            const issueBody = process.env.ISSUE_BODY || '';
+
+            // On recovery (closed), flip the down title to an up title
+            const isUp = action === 'closed';
+            const title = isUp
+              ? issueTitle.replace('🛑', '🟩').replace('is down', 'is up')
+              : issueTitle;
+            const bodyText = isUp ? 'Server is started.' : issueBody;
+
+            const atUsers = AT_USERS.map((u) => createAtElement(u.id));
+
+            const message = {
+              msg_type: "post",
+              content: {
+                post: {
+                  zh_cn: {
+                    title,
+                    content: [
+                      [
+                        { tag: "text", text: bodyText + "\n" }
+                      ],
+                      atUsers
+                    ]
+                  }
+                }
+              }
+            };
+
+            try {
+              const response = await fetch(process.env.FEISHU_WEBHOOK_URL, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(message)
+              });
+
+              if (!response.ok) {
+                throw new Error(`Failed to send notification: ${response.statusText}`);
+              }
+
+              console.log('Successfully sent notification to Feishu');
+            } catch (error) {
+              console.error('Error sending notification:', error);
+              core.setFailed(error.message);
+            }
