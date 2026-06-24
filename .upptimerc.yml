@@ -28,7 +28,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  uptime: "*/15 * * * *"
+  uptime: "*/5 * * * *"
   graphs: "0 0 * * 0"
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
