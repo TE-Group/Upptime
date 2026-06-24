@@ -24,7 +24,9 @@ jobs:
           script: |
             // Feishu users to @mention on every notification
             const AT_USERS = [
-              { id: 'ou_6129eefecd30faa2c56c36670b0b2516', name: 'Henry' }
+              { id: 'ou_6129eefecd30faa2c56c36670b0b2516', name: 'Henry' },
+              { id: 'ou_ead484e874e38e474231c160bb7f428d', name: 'Berg' },
+              { id: 'ou_d58897a30995d8267f65efa0228c1c59', name: 'Tony' }
             ];
 
             const createAtElement = (userId) => ({ tag: "at", user_id: userId });
